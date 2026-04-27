@@ -1,6 +1,4 @@
-# climate-challenge-week0
-
-# Climate Analysis (2015–2026)
+# climate-challenge-week0 - Climate Analysis (2015–2026)
 
 This project analyzes temperature and rainfall patterns across five African countries: Ethiopia, Kenya, Sudan, Tanzania, and Nigeria using NASA POWER climate data.
 
